@@ -3,7 +3,8 @@
 This project analyzes UK-based e-commerce sales data from 2009–2011 to uncover **best-selling products, sales trends, and high-revenue categories**.  
 The goal is to help business owners and decision-makers **understand performance drivers** and make data-driven decisions.
 
-![E-Commerce Dashboard](Preview/Task1_dashboard.png)
+## Ecommerce Sales Dashboard
+![Ecommerce Sales Dashboard](Task1_dashboard.png)
 
 ---
 
@@ -84,11 +85,13 @@ Sales peaked mid-year and are concentrated in a few high-performing products and
 ---
 
 ## Repository Contents
-- [Task1_Dashboard.pbix](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/Task%201%20FutureInterns_ecommerce%20sales%20project.pbix) – The completed Power BI dashboard  
-- [All_Sales_Data.xlsx](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/All_Sales_Data.xlsx) – Cleaned and combined dataset (2009–2011)  
-- [ProductCategory_MappingTable.xlsx](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/ProductCategory_MappingTable.xlsx) – Mapping of products to categories  
-- [README.md](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/README.md) – Project summary and insights  
-- [Dashboard Preview](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/Preview/Task1_dashboard.png) – Screenshot for quick view  
+### 📁 Files in this Project
+
+* 📄 [README.md](README.md)
+* 📊 [Task1_dashboard.png](Task1_dashboard.png)
+* 📗 [All_Sales_Data (3).xlsx](All_Sales_Data%20(3).xlsx)
+* 📝 [ProductCategory_MappingTable.csv](ProductCategory_MappingTable.csv)
+* 📓 [college_event_feedback_analysis(Task_3).ipynb](college_event_feedback_analysis(Task_3).ipynb)
 
 ---
 
